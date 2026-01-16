@@ -10,6 +10,7 @@
 
 ## Research Resources
 
+- https://baseballhall.org/hall-of-fame/election-rules/bbwaa-rules
 - https://www.notinhalloffame.com/baseball
 - https://library.fangraphs.com/misc/war/
 - https://www.baseball-reference.com/leaders/WAR_bat_career.shtml
