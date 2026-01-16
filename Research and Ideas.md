@@ -206,3 +206,12 @@ Everyone was on PEDs.
 2004 - Random drug tests and players started getting suspended.
 
 2007 - Mitchell Report.
+
+
+### Analtyics Era (Early 2000s - Present)
+
+*Excluded: Too current to evaluate*
+
+Data-driven approach to find undervalued players for scouting.
+
+Many players still active or careers too recent to assess legacy.
