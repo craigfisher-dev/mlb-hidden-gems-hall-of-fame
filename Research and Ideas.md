@@ -18,6 +18,10 @@
 - Great video describing all the different baseball eras: https://www.youtube.com/watch?v=H5Q0k6UuFRg
 - Closer history: https://www.baseball-reference.com/bullpen/Closer
 - Relief pitcher history: https://www.baseball-reference.com/bullpen/Relief_pitcher
+- https://sabr.org/bioproj
+- https://hos-new.herokuapp.com/nlmle
+- https://baseballegg.com/
+- https://baseballhall.org/our-stories
 
 ## Design Ideas
 
@@ -25,9 +29,9 @@
 
 ## Selection Criteria
 
-Need to be above 30 WAR.
-
-Add names of people who are not active players who are (not currently in Hall of Fame, and did not take steroids as far as you know, and are good people).
+- Elite production (40+ WAR or equivalent)
+- Documented acts of integrity, heroism, or service to others
+- NOT in the Hall of Fame
 
 ## Relief Pitching Evolution
 
